@@ -300,36 +300,39 @@
     .pic2{
         position: relative;
         width: 30%;
-        top: 80px;
+        top: 40px;
         left: 130px;
     }
     .chang{
         position: relative;
-        font-size: 14px;
+        font-size: 12px;
         top: 60px;
         left: -90px;
     }
     .karn{
         position: relative;
-        top: 100px;
+        top: 50px;
         left: -10%;
         font-size: 14px;
     }
     .school{
         position: relative;
-        top: 350px;
+        top: 250px;
         left: 15%;
         font-size: 16px;
     }
     .button{
         left: 10%;
+        top: 80%;
     }
     .button-2{
         width: 22%;
+        top: 80%;
     }
     .button-3{
         left: 70%;
         text-indent: -5px;
+        top: 80%;
     }
     .circle{
         width: 20%;
@@ -338,6 +341,7 @@
     }
     .circle2{
         width: 15%;
+        top: 40%;
         
 
     }
@@ -368,7 +372,7 @@
     }
     .school{
         font-size: 16px;
-        top: 220px;
+        top: 200px;
         left: 0px;
     }
     .button{
