@@ -373,20 +373,20 @@
     }
     .button{
         width: 8%;
-        top: 50%;
+        top: 60%;
         text-indent: -10px;
         left: 15px;
     }
     .button-2{
         width: 15%;
-        top: 50%;
+        top: 60%;
         text-indent: -11px;
         font-size: 12px;
         left: 100px;
     }
     .button-3{
         width: 15%;
-        top: 50%;
+        top: 60%;
         left: 200px;
         text-indent: -8px;
     }
