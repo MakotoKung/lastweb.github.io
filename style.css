@@ -92,12 +92,6 @@
 
 }
 
-.bt-zoom{
-    animation: zoomin 2s ;
-    
-    opacity: 1;
-
-}
 
 .bt-zoom1{
     animation: zoomin 4s;
