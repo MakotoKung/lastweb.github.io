@@ -611,8 +611,7 @@ a{
     right: 900px;
     z-index: 1;
 }
-
-@media screen and (max-width: 1440px)
+@media screen and (max-width: 1640px)
 {
     .logo{
         
@@ -641,6 +640,46 @@ a{
         width: 10%;
         top: 5%;
         left: 20%;
+        font-size: 70%;
+    }
+    .button-com{
+        position: fixed;
+        width: 10%;
+        top: 5%;
+        left: 68%;
+        font-size: 70%;
+    }
+}
+
+@media screen and (max-width: 1440px)
+{
+    .logo{
+        
+        position: fixed;
+        width: 50%;
+        height: 50%;
+        top:10%;
+        left: 20%;
+        padding: 2%;
+     
+
+
+    }
+
+    .load{
+        position: fixed;
+        width: 70%;
+        height: 5%;
+        top: 10%;
+        left: 68%;
+        padding: 5%;
+    }
+
+    .button-busi{
+        position: fixed;
+        width: 10%;
+        top: 5%;
+        left: 68%;
         font-size: 70%;
     }
     .button-com{
